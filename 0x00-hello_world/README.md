@@ -1,1 +1,1 @@
-C assembler
+C is fun
