@@ -1,2 +1,2 @@
-# alx-low_level_programming
-Introduction to C programming
+First rea
+and string
