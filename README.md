@@ -1,2 +1,0 @@
-First rea
-and string
