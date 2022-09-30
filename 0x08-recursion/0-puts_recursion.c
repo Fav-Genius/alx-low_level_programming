@@ -5,12 +5,12 @@
  */
 void _puts_recursion(char *s)
 {
-0-puts_recursion.c if (*s)
-0-puts_recursion.c {
-0-puts_recursion.c 0-puts_recursion.c _putchar(*s);
-0-puts_recursion.c 0-puts_recursion.c _puts_recursion(s + 1);
-0-puts_recursion.c }
+	if (*s)
+	{
+		_putchar(*s);
+		_puts_recursion(s + 1);
+	}
 
-0-puts_recursion.c else
-0-puts_recursion.c 0-puts_recursion.c _putchar(n);
+	else
+		_putchar('\n');
 }
